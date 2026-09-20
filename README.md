@@ -1,6 +1,7 @@
 # Bike Sharing Demand Forecasting
 
 **Dataset Link** - [Bike Sharing Dataset on Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset)
+### I have used the hour dataset to get to work on more precise features, this dataset also contains a day wise data. 
 
 Predicting inventory demand is a classic operations problem. For this project, the goal was to forecast exactly how many bikes would be rented in any given hour across a city, relying purely on environmental factors like temperature, humidity, and the time of day. 
 
